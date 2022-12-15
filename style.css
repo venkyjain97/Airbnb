@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container1{
+    height: 100vh;
+    background: url(image10.PNG);
+    background-size:cover;
+}
+.container1navbar{
+    height: 10vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container1navbarright{
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.container1navbarleft img{
+    margin-left: 20px;
+    background-color: #005377;
+}
+.container1form{
+    /* border: 2px solid red; */
+    width: 25%;
+    height: 55vh;
+    background-color: #fff;
+    margin-top: 50px;
+    margin-left: 90px;
+    border-radius: 4px;
+}
+form{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.form h2{
+    width: 10%;
+}
+form button{
+ margin-top: 24px;
+ margin-left: 170px;
+ width: 35%;
+ height: 35px;
+ background-color: #f7474c;
+ border-radius: 5px;
+ color: white;
+}
+.sitesettings{
+    margin-top: 30px;
+    margin-left: 90px;
+}
+.container2{
+    margin-top: 10px;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 75px;
+}
+.container2one img{
+    width: 95%;
+}
+.sitesettingimage{
+    width: 90%;
+    margin-left: 70px;
+    margin-right: 50px;
+
+}
+
+.container3{
+    margin-top: 20px;
+    width: 90%;
+    height: 60vh;
+    /* border: 2PX SOLID RED; */
+    margin-left: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+.container3one{
+    width: 15%;
+     /* border: 2px solid red; */
+     height: 60vh;
+     
+     
+}
+.container3one img{
+    width: 100%;
+}
+.container4{
+    margin-top: 40px;
+    /* border :2px solid red; */
+    width: 90%;
+    height: 70vh;
+    margin-left: 75px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.container4one{
+    width: 22%;
+    height: 48%;
+     /* border :2px solid red; */
+}
+.container4oneleft{
+    display: flex;
+    justify-content: space-between;
+}
+.container4oneleftone button{
+    height: 35px;
+    background-color: #fff;
+    border-color:rgb(0, 0, 0);
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+}
+.container4oneleftwo b{
+ color: red;
+}
+.container4one img{
+    width: 100%;
+    height: 67%;
+}
+.containerrlast{
+    margin-top: 20px;
+    height: 45vh;
+    width: 90%;
+    /* border: 2px solid red; */
+    margin-left: 70px;
+    display: flex;
+    justify-content: space-around;
+}
+.containerrlastone{
+    /* border: 2px solid red; */
+    width: 32%;
+    height: 100%;
+}
+.containerrlastone img{
+    width: 100.19%;
+    height: 78%;
+}
+.containerrlastone h4{
+    color: #914669;
+}
